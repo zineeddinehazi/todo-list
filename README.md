@@ -25,7 +25,12 @@ A simple and Todo app built with **React**, **Vite**, and **Tailwind CSS**. Add,
 ## 📦 Installation
 
 1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/your-username/react-todo-app.git
-   cd react-todo-app
-   ```
+   1. Clone the repository:
+   ```bach
+   git clone https://github.com/zineeddinehazi/todo-list.git
+   cd todo-list
+    ```
+2. Install dependencies:
+```bach
+   npm install
+    ```
