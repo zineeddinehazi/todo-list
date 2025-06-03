@@ -15,7 +15,7 @@ export default function Task({ task, handleCheck, handleRemove }) {
         </label>
       </div>
       <button
-        className="rounded-3xl bg-red-400 p-2 text-xl text-gray-100"
+        className="rounded-3xl bg-red-400 p-2 text-xl text-gray-100 hover:bg-red-500"
         onClick={() => handleRemove(task.id)}
       >
         Remove

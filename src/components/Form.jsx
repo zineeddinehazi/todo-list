@@ -33,7 +33,7 @@ export default function Form({ task, setTask, setList }) {
         />
         <button
           type="submit"
-          className="rounded-3xl bg-[#007acc] p-3 text-xl text-gray-100 shadow-2xl"
+          className="shadow- rounded-3xl bg-[#007acc] p-3 text-xl text-gray-100 hover:bg-blue-600"
         >
           Add to list
         </button>
